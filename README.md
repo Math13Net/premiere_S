@@ -7,13 +7,13 @@ Voici qq fichiers pour des éléments de cours de la classe de première spécia
 
 -----------------------------------------------------------------------------------------------------------------------------
 ## <a name="cours"></a> cours math première
-* ### [1 - les nombres réels](https://github.com/Math13Net/seconde_7/blob/master/01%20-%20seconde.pdf)
+* ### [1 - second degré]()
 
 -----------------------------------------------------------------------------------------------------------------------------
 ## <a name="resume"></a> résumé de cours math première S
-* ### [le second degré](https://www.lyceedadultes.fr/sitepedagogique/documents/math/math1S/01_second_degre/schema_second_degre.pdf)
-
-
+* ### [second degré](https://www.lyceedadultes.fr/sitepedagogique/documents/math/math1S/01_second_degre/schema_second_degre.pdf)
+* ### [suite](https://www.lyceedadultes.fr/sitepedagogique/documents/math/math1S/04_suites/schema_suites_1S.pdf)
+* ### [suite](https://www.lyceedadultes.fr/sitepedagogique/documents/math/math1S/04_suites/schema_suites_1S.pdf)
 
 
 
