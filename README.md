@@ -28,7 +28,8 @@ Voici qq fichiers pour des éléments de cours de la classe de première spécia
 * ### [progression 2021-2022]()
 * ### [émulateur numworks](https://www.numworks.com/fr/simulateur/)
 * ### [pyhton sur la TI 83](https://www.lyceedadultes.fr/sitepedagogique/documents/math/math1spe/00_algorithmes/prise_en%20main_python_ti_83_ce.pdf)
-* ### [vocabulaire math : français / anglais](https://www.lyceedadultes.fr/sitepedagogique/documents/math/autres_documents/cours_traduction_anglais_termes_mathematiques.pdf) 
+* ### [vocabulaire math](https://www.lyceedadultes.fr/sitepedagogique/documents/math/autres_documents/Termes_mathematiques.pdf)
+* ### [traduction vocabulaire math : français / anglais](https://www.lyceedadultes.fr/sitepedagogique/documents/math/autres_documents/cours_traduction_anglais_termes_mathematiques.pdf) 
 
 
 ---------------------------------------------------------------------------------------------------------------------------
