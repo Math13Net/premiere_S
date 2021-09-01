@@ -11,14 +11,8 @@ Voici qq fichiers pour des éléments de cours de la classe de première spécia
 
 -----------------------------------------------------------------------------------------------------------------------------
 ## <a name="resume"></a> résumé de cours math première S
-* ### [les nombres 1/2](https://www.lyceedadultes.fr/sitepedagogique/documents/math/math2S/01_les_nombres/schema_fractions.pdf)
-* ### [les nombres 2/2](https://www.lyceedadultes.fr/sitepedagogique/documents/math/math2S/01_les_nombres/schema_ens_nbres.pdf)
-* ### [équation du premier degré](https://www.lyceedadultes.fr/sitepedagogique/documents/math/math2S/02_equations_premier_degre/schema_eq_1_degre.pdf)
-* ### [inéquation du premier degré](https://www.lyceedadultes.fr/sitepedagogique/documents/math/math2S/03_inequation_premier_degre/schema_ineq_1_degre.pdf)
-* ### [fonction 1/2](https://www.lyceedadultes.fr/sitepedagogique/documents/math/math2S/04_fonctions_lineaire_affine/schema_fctn_res_graph.pdf)
-* ### [fonction 2/2](https://www.lyceedadultes.fr/sitepedagogique/documents/math/math2S/05_fonctions_carrees_inverses/schema_autres_fctn.pdf)
-* ### [approfondissement : système 3 x 3](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermSspe/04_matrices_et_suites/04_cours_algorithme_systeme_3_3.pdf)
-* ### [relation entre quadrilatères](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/09_nombres_complexes/09_relations_entre_quadrilateres.pdf)
+* ### [le second degré](https://www.lyceedadultes.fr/sitepedagogique/documents/math/math1S/01_second_degre/schema_second_degre.pdf)
+
 
 
 
