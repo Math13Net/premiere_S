@@ -10,7 +10,7 @@ Voici qq fichiers pour des éléments de cours de la classe de première spécia
 * ### [1 - les nombres réels](https://github.com/Math13Net/seconde_7/blob/master/01%20-%20seconde.pdf)
 
 -----------------------------------------------------------------------------------------------------------------------------
-## <a name="resume"></a> résumé de cours math seconde
+## <a name="resume"></a> résumé de cours math première S
 * ### [les nombres 1/2](https://www.lyceedadultes.fr/sitepedagogique/documents/math/math2S/01_les_nombres/schema_fractions.pdf)
 * ### [les nombres 2/2](https://www.lyceedadultes.fr/sitepedagogique/documents/math/math2S/01_les_nombres/schema_ens_nbres.pdf)
 * ### [équation du premier degré](https://www.lyceedadultes.fr/sitepedagogique/documents/math/math2S/02_equations_premier_degre/schema_eq_1_degre.pdf)
@@ -24,11 +24,15 @@ Voici qq fichiers pour des éléments de cours de la classe de première spécia
 
 
 -----------------------------------------------------------------------------------------------------------------------------
-## Progression , matériels, consignes ... en seconde 10 au Lycée Jean Monnet - 2021/2022
+## Progression , matériels ... au Lycée Jean Monnet - 2021/2022
 * ### [progression 2021-2022]()
+* ### [émulateur numworks](https://www.numworks.com/fr/simulateur/)
+* ### [pyhton sur la TI 83](https://www.lyceedadultes.fr/sitepedagogique/documents/math/math1spe/00_algorithmes/prise_en%20main_python_ti_83_ce.pdf)
+* ### [traduction anglaise terme math](https://www.lyceedadultes.fr/sitepedagogique/documents/math/autres_documents/cours_traduction_anglais_termes_mathematiques.pdf) 
+
 
 ---------------------------------------------------------------------------------------------------------------------------
-## [algorithmes à connaître en seconde](https://github.com/Math13Net/seconde/blob/master/algorithms)
-## [programme officiel](https://github.com/Math13Net/seconde_7/blob/master/seconde_math_programme.pdf)
+## [algorithmes à connaître en premiere](https://github.com/Math13Net/seconde/blob/master/algorithms)
+## [programme officiel](https://cache.media.eduscol.education.fr/file/SP1-MEN-22-1-2019/16/8/spe632_annexe_1063168.pdf)
 ## [bien démarrer avec python](https://www.frederic-junier.org/PythonSeconde/Python_Seconde_Parc/accueil_python_2nde.html)
 
