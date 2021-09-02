@@ -9,7 +9,7 @@ Voici qq fichiers pour des éléments de cours de la classe de première spécia
 ## 👋 [devoir](#devoir)
 ## 😍 [divers](#divers)
 ## 🌐 [try this](https://undergroundmathematics.org/)
-
+## 😍 [fun et culture](#fun)
 
 
 -----------------------------------------------------------------------------------------------------------------------------
