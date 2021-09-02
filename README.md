@@ -21,6 +21,7 @@ Voici qq fichiers pour des éléments de cours de la classe de première spécia
 -----------------------------------------------------------------------------------------------------------------------------
 ## <a name="resume"></a> résumé de cours math première S
 * ### [second degré](https://www.lyceedadultes.fr/sitepedagogique/documents/math/math1S/01_second_degre/schema_second_degre.pdf)
+* ### [quadratics](https://undergroundmathematics.org/quadratics)
 * ### [suite](https://www.lyceedadultes.fr/sitepedagogique/documents/math/math1S/04_suites/schema_suites_1S.pdf)
 * ### [fonction de référence](https://www.lyceedadultes.fr/sitepedagogique/documents/math/math1S/02_fctns_fctn_reference_variation_fctn_associees/02_schema_fctns_ref_variation_fctn_associees_degre.pdf)
 
