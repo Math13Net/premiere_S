@@ -41,6 +41,17 @@ Voici qq fichiers pour des éléments de cours de la classe de première spécia
 
 
 ---------------------------------------------------------------------------------------------------------------------------
+## <a name="fun"></a> un peu de fun et de culture !
+* ### FUN
+  * #### [kangourou](http://www.mathkang.org/default.html)
+  * #### [castor informatique](http://castor-informatique.fr/)
+  * #### [alkindi](https://www.concours-alkindi.fr/#/)
+  * #### [émoji](https://gist.github.com/rxaviers/7360908)
+* ### CULTURE
+  * #### [VideoDiMath](http://video.math.cnrs.fr/)
+  * #### [5 min Lebesgue](https://www.lebesgue.fr/5min) : à visiter absolument !
+
+---------------------------------------------------------------------------------------------------------------------------
 ## [algorithmes à connaître en premiere](https://github.com/Math13Net/seconde/blob/master/algorithms)
 ## [programme officiel](https://cache.media.eduscol.education.fr/file/SP1-MEN-22-1-2019/16/8/spe632_annexe_1063168.pdf)
 ## [bien démarrer avec python](https://www.frederic-junier.org/PythonSeconde/Python_Seconde_Parc/accueil_python_2nde.html)
