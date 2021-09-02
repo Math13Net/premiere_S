@@ -52,7 +52,7 @@ Voici qq fichiers pour des éléments de cours de la classe de première spécia
   * #### [5 min Lebesgue](https://www.lebesgue.fr/5min) : à visiter absolument !
 
 ---------------------------------------------------------------------------------------------------------------------------
-## [algorithmes à connaître en premiere](https://github.com/Math13Net/seconde/blob/master/algorithms)
+## [algorithmes à connaître en premiere](http://revue.sesamath.net/spip.php?article1188)
 ## [programme officiel](https://cache.media.eduscol.education.fr/file/SP1-MEN-22-1-2019/16/8/spe632_annexe_1063168.pdf)
 ## [bien démarrer avec python](https://www.frederic-junier.org/PythonSeconde/Python_Seconde_Parc/accueil_python_2nde.html)
 
