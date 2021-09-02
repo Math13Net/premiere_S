@@ -4,6 +4,10 @@ Magic Problem Solver Algorithm ;)) https://proftomcrick.com/2011/04/26/feynman-p
 ---------------------------------------------------------------------------------------------------------------------------
 
 Voici qq fichiers pour des éléments de cours de la classe de première spécialité math :
+## 🌈 [cours](#cours)
+## 🌈 [résumé](#resume)
+## 🌈 [devoir](#devoir)
+## 🌈 [divers](#divers)
 
 -----------------------------------------------------------------------------------------------------------------------------
 ## <a name="cours"></a> cours math première
@@ -25,7 +29,7 @@ Voici qq fichiers pour des éléments de cours de la classe de première spécia
 
 
 -----------------------------------------------------------------------------------------------------------------------------
-## Progression , matériels ... au Lycée Jean Monnet - 2021/2022
+## <a name="divers"></a> Progression , matériels ... au Lycée Jean Monnet - 2021/2022
 * ### [progression 2021-2022]()
 * ### [émulateur numworks](https://www.numworks.com/fr/simulateur/)
 * ### [pyhton sur la TI 83](https://www.lyceedadultes.fr/sitepedagogique/documents/math/math1spe/00_algorithmes/prise_en%20main_python_ti_83_ce.pdf)
