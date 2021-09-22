@@ -28,8 +28,8 @@ Voici qq fichiers pour des éléments de cours de la classe de première spécia
 
 -----------------------------------------------------------------------------------------------------------------------------
 ## <a name="devoir"></a> devoir math première S
-* ### [devoir 1]()
-* ### [devoir 2]()
+* ### [devoir 1](http://fr.shaarr.com/app/i-love-you/7509/i-love-coucou)
+* ### [devoir 2](http://fr.shaarr.com/app/i-love-you/7509/i-love-coucou)
 
 
 -----------------------------------------------------------------------------------------------------------------------------
