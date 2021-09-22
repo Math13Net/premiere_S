@@ -15,7 +15,7 @@ Voici qq fichiers pour des éléments de cours de la classe de première spécia
 -----------------------------------------------------------------------------------------------------------------------------
 ## <a name="cours"></a> cours math première
 * ### [1 - second degré](https://github.com/Math13Net/premiere_S/blob/main/01_premiere_S.pdf)
-* ### [2 - suite]()
+* ### [2 - suite](https://github.com/Math13Net/premiere_S/blob/main/02_premiere_S.pdf)
 
 
 -----------------------------------------------------------------------------------------------------------------------------
