@@ -16,7 +16,7 @@ Voici qq fichiers pour des éléments de cours de la classe de première spécia
 ## <a name="cours"></a> cours math première
 * ### [1 - second degré](https://github.com/Math13Net/premiere_S/blob/main/01_premiere_S.pdf)
 * ### [2 - suite](https://github.com/Math13Net/premiere_S/blob/main/02_premiere_S.pdf)
-
+* ### [3 - probabilités conditionnelles](https://github.com/Math13Net/premiere_S/blob/main/03_premiere_S.pdf)
 
 -----------------------------------------------------------------------------------------------------------------------------
 ## <a name="resume"></a> résumé de cours math première S
@@ -24,6 +24,7 @@ Voici qq fichiers pour des éléments de cours de la classe de première spécia
 * ### [commute to quadratics](https://undergroundmathematics.org/quadratics)
 * ### [suite](https://www.lyceedadultes.fr/sitepedagogique/documents/math/math1S/04_suites/schema_suites_1S.pdf)
 * ### [fonction de référence](https://www.lyceedadultes.fr/sitepedagogique/documents/math/math1S/02_fctns_fctn_reference_variation_fctn_associees/02_schema_fctns_ref_variation_fctn_associees_degre.pdf)
+* ### [probabilités](http://www.lyceedadultes.fr/sitepedagogique/documents/math/math1S/08_probabilite/resume_proba_discrete_loi_binomiale.pdf)
 
 
 -----------------------------------------------------------------------------------------------------------------------------
