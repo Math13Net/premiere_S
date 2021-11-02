@@ -58,5 +58,5 @@ Voici qq fichiers pour des éléments de cours de la classe de première spécia
 ---------------------------------------------------------------------------------------------------------------------------
 ## [algorithmes à connaître en premiere](http://revue.sesamath.net/spip.php?article1188)
 ## [programme officiel](https://cache.media.eduscol.education.fr/file/SP1-MEN-22-1-2019/16/8/spe632_annexe_1063168.pdf)
-## [bien démarrer avec python](https://www.frederic-junier.org/PythonSeconde/Python_Seconde_Parc/accueil_python_2nde.html)
+## [bien démarrer avec python](https://xn--petitfut-i1a.com/download/cours-initiation-python/)
 
