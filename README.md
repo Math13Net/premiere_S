@@ -17,6 +17,8 @@ Voici qq fichiers pour des éléments de cours de la classe de première spécia
 * ### [1 - second degré](https://github.com/Math13Net/premiere_S/blob/main/01_premiere_S.pdf)
 * ### [2 - suite](https://github.com/Math13Net/premiere_S/blob/main/02_premiere_S.pdf)
 * ### [3 - probabilités conditionnelles](https://github.com/Math13Net/premiere_S/blob/main/03_premiere_S.pdf)
+* ### [4 - dérivée](https://github.com/Math13Net/premiere_S/blob/main/04_premiere_S.pdf)
+
 
 -----------------------------------------------------------------------------------------------------------------------------
 ## <a name="resume"></a> résumé de cours math première S
