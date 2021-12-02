@@ -6,7 +6,7 @@ Magic Problem Solver Algorithm ;)) https://proftomcrick.com/2011/04/26/feynman-p
 Voici qq fichiers pour des éléments de cours de la classe de première spécialité math :
 ## 🌈 [cours](#cours)
 ## 🔥 [fiche, résumé](#resume)
-## 🌈 [ex type e3c](#e3c)
+## 🌈 [qcm en ligne type e3c corrigés](#e3c)
 ## 👋 [devoir](#devoir)
 ## 📜 [divers](#divers)
 ## 🌐 [try this](https://undergroundmathematics.org/)
@@ -30,7 +30,7 @@ Voici qq fichiers pour des éléments de cours de la classe de première spécia
 * ### [probabilités](http://www.lyceedadultes.fr/sitepedagogique/documents/math/math1S/08_probabilite/resume_proba_discrete_loi_binomiale.pdf)
 
 -----------------------------------------------------------------------------------------------------------------------------
-## <a name="e3c"></a> ex corrigé type e3c
+## <a name="e3c"></a> qcm en ligne type e3c corrigés
 * ### [second degré](https://www.mathgm.fr/index.php/premiere/e3c-1ere/113-second-degre)
 * ### [suite](https://www.mathgm.fr/index.php/premiere/e3c-1ere/114-suites-numeriques)
 * ### [probabilité conditionnelle](https://www.mathgm.fr/index.php/premiere/e3c-1ere/115-probabilite)
