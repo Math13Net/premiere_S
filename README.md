@@ -6,6 +6,7 @@ Magic Problem Solver Algorithm ;)) https://proftomcrick.com/2011/04/26/feynman-p
 Voici qq fichiers pour des éléments de cours de la classe de première spécialité math :
 ## 🌈 [cours](#cours)
 ## 🔥 [fiche, résumé](#resume)
+## 🌈 [ex type e3c](#e3c)
 ## 👋 [devoir](#devoir)
 ## 📜 [divers](#divers)
 ## 🌐 [try this](https://undergroundmathematics.org/)
@@ -13,7 +14,7 @@ Voici qq fichiers pour des éléments de cours de la classe de première spécia
 
 
 -----------------------------------------------------------------------------------------------------------------------------
-## <a name="cours"></a> cours math première
+## <a name="cours"></a> cours math première s
 * ### [1 - second degré](https://github.com/Math13Net/premiere_S/blob/main/01_premiere_S.pdf)
 * ### [2 - suite](https://github.com/Math13Net/premiere_S/blob/main/02_premiere_S.pdf)
 * ### [3 - probabilités conditionnelles](https://github.com/Math13Net/premiere_S/blob/main/03_premiere_S.pdf)
@@ -28,6 +29,16 @@ Voici qq fichiers pour des éléments de cours de la classe de première spécia
 * ### [fonction de référence](https://www.lyceedadultes.fr/sitepedagogique/documents/math/math1S/02_fctns_fctn_reference_variation_fctn_associees/02_schema_fctns_ref_variation_fctn_associees_degre.pdf)
 * ### [probabilités](http://www.lyceedadultes.fr/sitepedagogique/documents/math/math1S/08_probabilite/resume_proba_discrete_loi_binomiale.pdf)
 
+-----------------------------------------------------------------------------------------------------------------------------
+## <a name="e3c"></a> ex corrigé type e3c
+* ### [second degré](https://www.mathgm.fr/index.php/premiere/e3c-1ere/113-second-degre)
+* ### [suite](https://www.mathgm.fr/index.php/premiere/e3c-1ere/114-suites-numeriques)
+* ### [probabilité conditionnelle](https://www.mathgm.fr/index.php/premiere/e3c-1ere/115-probabilite)
+* ### [dérivée](https://www.mathgm.fr/index.php/premiere/e3c-1ere/116-derivation)
+* ### [produit scalaire](https://www.mathgm.fr/index.php/premiere/e3c-1ere/117-produit-scalaire)
+* ### [trigonométrie](https://www.mathgm.fr/index.php/premiere/e3c-1ere/118-trigonometrie)
+* ### [géométrie](https://www.mathgm.fr/index.php/premiere/e3c-1ere/119-e3c-geometrie-reperee)
+* ### [fonction exponentielle](https://www.mathgm.fr/index.php/premiere/e3c-1ere/120-fonction-exponentielle)
 
 -----------------------------------------------------------------------------------------------------------------------------
 ## <a name="devoir"></a> devoir math première S
