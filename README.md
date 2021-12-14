@@ -44,8 +44,8 @@ Voici qq fichiers pour des éléments de cours de la classe de première spécia
 ## <a name="devoir"></a> devoir math première S
 * ### [devoir 1](https://github.com/Math13Net/premiere_S/blob/main/2021_premiere_s_ds1.pdf)
 * ### [devoir 2](https://github.com/Math13Net/premiere_S/blob/main/2021_premiere_s__ds2.pdf)
-* ### [devoir 3](http://fr.shaarr.com/app/i-love-you/7509/i-love-coucou)
-
+* ### [devoir 3](https://github.com/Math13Net/premiere_S/blob/main/2021_premiere_s_ds3.pdf)
+* ### [devoir 4](http://fr.shaarr.com/app/i-love-you/7509/i-love-coucou)
 
 -----------------------------------------------------------------------------------------------------------------------------
 ## <a name="divers"></a> Progression , matériels ... au Lycée Jean Monnet - 2021/2022
