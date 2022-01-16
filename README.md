@@ -19,6 +19,7 @@ Voici qq fichiers pour des éléments de cours de la classe de première spécia
 * ### [2 - suite](https://github.com/Math13Net/premiere_S/blob/main/02_premiere_S.pdf)
 * ### [3 - probabilités conditionnelles](https://github.com/Math13Net/premiere_S/blob/main/03_premiere_S.pdf)
 * ### [4 - dérivée](https://github.com/Math13Net/premiere_S/blob/main/04_premiere_S.pdf)
+* ### [5 - variation - extremum fonction](https://github.com/Math13Net/premiere_S/blob/main/05_premiere_S.pdf)
 
 
 -----------------------------------------------------------------------------------------------------------------------------
