@@ -29,6 +29,7 @@ Voici qq fichiers pour des éléments de cours de la classe de première spécia
 * ### [suite](https://www.lyceedadultes.fr/sitepedagogique/documents/math/math1S/04_suites/schema_suites_1S.pdf)
 * ### [fonction de référence](https://www.lyceedadultes.fr/sitepedagogique/documents/math/math1S/02_fctns_fctn_reference_variation_fctn_associees/02_schema_fctns_ref_variation_fctn_associees_degre.pdf)
 * ### [probabilités](http://www.lyceedadultes.fr/sitepedagogique/documents/math/math1S/08_probabilite/resume_proba_discrete_loi_binomiale.pdf)
+* ### [dérivée](https://www.lyceedadultes.fr/sitepedagogique/documents/math/math1S/03_derivation/03_schema_fctn_derivee.pdf)
 
 -----------------------------------------------------------------------------------------------------------------------------
 ## <a name="e3c"></a> qcm en ligne type e3c corrigés
