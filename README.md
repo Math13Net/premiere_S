@@ -22,7 +22,7 @@ Voici qq fichiers pour des éléments de cours de la classe de première spécia
 * ### [5 - variation - extremum fonction](https://github.com/Math13Net/premiere_S/blob/main/05_premiere_S.pdf)
 * ### [6 - fonction exponentielle](https://github.com/Math13Net/premiere_S/blob/main/06_premiere_S.pdf)
 * ### [7 - fonctions trigonométriques](https://github.com/Math13Net/premiere_S/blob/main/07_premiere_S.pdf)
-* ### [8 - var]()
+* ### [8 - var](https://github.com/Math13Net/premiere_S/blob/main/08_premiere_S.pdf)
 
 -----------------------------------------------------------------------------------------------------------------------------
 ## <a name="resume"></a> résumé de cours math première S
