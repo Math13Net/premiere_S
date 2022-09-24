@@ -79,6 +79,7 @@ Voici qq fichiers pour des éléments de cours de la classe de première spécia
 * ### CULTURE
   * #### [VideoDiMath](http://video.math.cnrs.fr/)
   * #### [5 min Lebesgue](https://www.lebesgue.fr/5min) : à visiter absolument !
+  * #### [une vidéo intéressante à regarder](https://youtu.be/4nG49xTTjIA)
 
 ---------------------------------------------------------------------------------------------------------------------------
 ## [algorithmes à connaître en premiere](http://revue.sesamath.net/spip.php?article1188)
