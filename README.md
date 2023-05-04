@@ -25,7 +25,7 @@ Voici qq fichiers pour des éléments de cours de la classe de première spécia
 * ### [6 - fonction exponentielle](https://github.com/Math13Net/premiere_S/blob/main/06_premiere_S.pdf)
 * ### [7 - fonctions trigonométriques](https://github.com/Math13Net/premiere_S/blob/main/07_premiere_S.pdf)
 * ### [8 - var](https://github.com/Math13Net/premiere_S/blob/main/08_premiere_S.pdf)
-* ### [9 - calcul vectoriel et produit scalaire]()
+* ### [9 - calcul vectoriel et produit scalaire](https://github.com/Math13Net/premiere_S/blob/main/09_premiere_S.pdf)
 
 -----------------------------------------------------------------------------------------------------------------------------
 ## <a name="resume"></a> résumé de cours math première S
@@ -39,7 +39,7 @@ Voici qq fichiers pour des éléments de cours de la classe de première spécia
 * ### [vecteur - géométrie](https://www.lyceedadultes.fr/sitepedagogique/documents/math/math1S/05_vecteurs_colinearite/schema_vecteurs_geometrie_1S.pdf)
 * ### [vecteur - calcul](https://www.lyceedadultes.fr/sitepedagogique/documents/math/math1S/05_vecteurs_colinearite/schema_vecteurs_analytique_1S.pdf)
 * ### [droite](https://www.lyceedadultes.fr/sitepedagogique/documents/math/math1S/05_vecteurs_colinearite/schema_droites_1S_2S.pdf)
-* ### [produit scalaire](https://github.com/Math13Net/premiere_S/blob/main/09_premiere_S.pdf)
+* ### [produit scalaire](https://www.lyceedadultes.fr/sitepedagogique/documents/math/math1S/06_produit_scalaire/schema_produit_scalaire_1S.pdf)
 * ### []()
 * ### []()
 
