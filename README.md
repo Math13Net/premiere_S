@@ -39,7 +39,7 @@ Voici qq fichiers pour des éléments de cours de la classe de première spécia
 * ### [vecteur - géométrie](https://www.lyceedadultes.fr/sitepedagogique/documents/math/math1S/05_vecteurs_colinearite/schema_vecteurs_geometrie_1S.pdf)
 * ### [vecteur - calcul](https://www.lyceedadultes.fr/sitepedagogique/documents/math/math1S/05_vecteurs_colinearite/schema_vecteurs_analytique_1S.pdf)
 * ### [droite](https://www.lyceedadultes.fr/sitepedagogique/documents/math/math1S/05_vecteurs_colinearite/schema_droites_1S_2S.pdf)
-* ### [produit scalaire](https://www.lyceedadultes.fr/sitepedagogique/documents/math/math1S/06_produit_scalaire/schema_produit_scalaire_1S.pdf)
+* ### [produit scalaire](https://github.com/Math13Net/premiere_S/blob/main/09_premiere_S.pdf)
 * ### []()
 * ### []()
 
