@@ -3,7 +3,7 @@
 [Magic Problem Solver Algorithm](https://proftomcrick.com/2011/04/26/feynman-problem-solving-algorithm/)
 ---------------------------------------------------------------------------------------------------------------------------
 
-# 🆕 COMMANDE CALCULATRICE POUR LA CLASSE DE Première Spé Math 
+# 🆕 COMMANDE CALCULATRICE POUR LA CLASSE DE 1ère Spé Math 
 
 ## Au nom de toute l'équipe NumWorks, je vous remercie d'avoir mis en place une cagnotte en ligne pour le Lycée Jean Monnet ! Voici un récapitulatif de votre cagnotte en ligne :  
 * ### lien pour accéder à la cagnotte et à partager avec les familles : https://promo.numworks.fr/3766  
