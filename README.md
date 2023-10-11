@@ -1,6 +1,6 @@
 # :santa: Première S
 
-[Magic Problem Solver Algorithm](https://proftomcrick.com/2011/04/26/feynman-problem-solving-algorithm/)
+[pas si simple de prover que : 1+1=2](https://youtu.be/VkM321DsZAg?si=vJsvc9lyG9wk4Tjl)
 ---------------------------------------------------------------------------------------------------------------------------
 
 Voici qq fichiers pour des éléments de cours de la classe de première spécialité math :
