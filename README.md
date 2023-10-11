@@ -1,6 +1,6 @@
 # :santa: Première S
 
-[pas si simple de prover que : 1+1=2](https://youtu.be/VkM321DsZAg?si=vJsvc9lyG9wk4Tjl)
+[pas si simple de prouver que : 1+1=2 !](https://youtu.be/VkM321DsZAg?si=vJsvc9lyG9wk4Tjl)
 ---------------------------------------------------------------------------------------------------------------------------
 
 Voici qq fichiers pour des éléments de cours de la classe de première spécialité math :
