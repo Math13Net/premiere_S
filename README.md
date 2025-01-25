@@ -64,7 +64,7 @@ Voici qq fichiers pour des éléments de cours de la classe de première spécia
 
 -----------------------------------------------------------------------------------------------------------------------------
 ## <a name="divers"></a> Progression , matériels ...
-* ### [progression 2021-2022]()
+* ### [progression 2023-2024]()
 * ### [émulateur numworks](https://www.numworks.com/fr/simulateur/)
 * ### [python sur la TI 83](https://www.lyceedadultes.fr/sitepedagogique/documents/math/math1spe/00_algorithmes/prise_en%20main_python_ti_83_ce.pdf)
 * ### [vocabulaire math](https://www.lyceedadultes.fr/sitepedagogique/documents/math/autres_documents/Termes_mathematiques.pdf)
@@ -83,6 +83,7 @@ Voici qq fichiers pour des éléments de cours de la classe de première spécia
   * #### [VideoDiMath](http://video.math.cnrs.fr/)
   * #### [5 min Lebesgue](https://www.lebesgue.fr/5min) : à visiter absolument !
   * #### [une vidéo intéressante à regarder](https://youtu.be/4nG49xTTjIA)
+  * #### [Compétition européenne de statistiques édition 2023-2024](https://www.insee.fr/fr/information/7673508) - [2 équipes du lycée Jean Monnet sélectionnées](https://github.com/Math13Net/premiere_S/blob/main/esc23-24_tableau_resultats_1re_epreuve.pdf)
 
 ---------------------------------------------------------------------------------------------------------------------------
 ## [algorithmes à connaître en premiere](http://revue.sesamath.net/spip.php?article1188)
