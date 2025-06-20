@@ -15,7 +15,7 @@ Voici qq fichiers pour des éléments de cours de la classe de première spécia
 
 -----------------------------------------------------------------------------------------------------------------------------
 ## <a name="cours"></a> cours math première s
-* ### [1 - second degré](https://github.com/Math13Net/premiere_S/blob/main/01_premiere_S.pdf)
+* ### [1 - second degré](https://github.com/Math13Net/premiere_S/blob/main/01_premiere_S.pdf) - [IAG Chap 1](IAG_chap_1.ipynb)
 * ### [2 - suite](https://github.com/Math13Net/premiere_S/blob/main/02_premiere_S.pdf)
 * #### [zoom sur l'opérateur somme ∑ eyt produit ∏ - ex sujet](https://maths-france.fr/wp-content/uploads/05_sigma_planche.pdf)
 * #### [zoom sur l'opérateur somme ∑ eyt produit ∏ - ex corrigé](https://maths-france.fr/wp-content/uploads/05_sigma_planche_corriges.pdf)
@@ -64,7 +64,7 @@ Voici qq fichiers pour des éléments de cours de la classe de première spécia
 
 -----------------------------------------------------------------------------------------------------------------------------
 ## <a name="divers"></a> Progression , matériels ...
-* ### [progression 2023-2024]()
+* ### [progression 2024-2025]()
 * ### [émulateur numworks](https://www.numworks.com/fr/simulateur/)
 * ### [python sur la TI 83](https://www.lyceedadultes.fr/sitepedagogique/documents/math/math1spe/00_algorithmes/prise_en%20main_python_ti_83_ce.pdf)
 * ### [vocabulaire math](https://www.lyceedadultes.fr/sitepedagogique/documents/math/autres_documents/Termes_mathematiques.pdf)
