@@ -15,7 +15,7 @@ Voici qq fichiers pour des éléments de cours de la classe de première spécia
 
 -----------------------------------------------------------------------------------------------------------------------------
 ## <a name="cours"></a> cours math première s
-* ### [1 - second degré](https://github.com/Math13Net/premiere_S/blob/main/01_premiere_S.pdf) - [IAG Chap 1](IAG_chap_1.ipynb)
+* ### [1 - second degré](https://github.com/Math13Net/premiere_S/blob/main/01_premiere_S%20.pdf) - [IAG Chap 1](IAG_chap_1.ipynb)
 * ### [2 - suite](https://github.com/Math13Net/premiere_S/blob/main/02_premiere_S.pdf)
 * #### [zoom sur l'opérateur somme ∑ eyt produit ∏ - ex sujet](https://maths-france.fr/wp-content/uploads/05_sigma_planche.pdf)
 * #### [zoom sur l'opérateur somme ∑ eyt produit ∏ - ex corrigé](https://maths-france.fr/wp-content/uploads/05_sigma_planche_corriges.pdf)
